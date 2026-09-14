@@ -1,0 +1,198 @@
+{
+  "timestamp": "20260914_000038",
+  "cast_names": [
+    "Jack",
+    "Young",
+    "Scribe",
+    "Scholar1",
+    "King Michael",
+    "Mother",
+    "Blacksmith",
+    "Bones",
+    "Vex",
+    "Halo",
+    "Ash",
+    "Queen June",
+    "Snake",
+    "Narrator"
+  ],
+  "source": "phukyoo64-boop/28",
+  "drafts": [
+    {
+      "title": "Exile and Ascent",
+      "reasoning": "The 'I' in the source is not explicitly named and serves as an unnamed narrator. This chunk involves Jack, Laura, and implicitly the setting of the workplace utopia in NEO-BABYLON. The dramatic conflict is Jack's abrupt removal from the kingdom and his subsequent assignment in a controlled work environment. The setting is a skyscraper office in NEO-BABYLON, with harsh fluorescent lighting and other workers in matching sleek uniforms.",
+      "scene": "In the shadow of the towering skyscrapers of NEO-BABYLON, Jack and Laura sit at their ergonomically designed terminals. The harsh fluorescent lights cast a stark white glow, and the hum of the office environment is punctuated by the occasional whir of machinery. The other workers, all dressed in identical sleek uniforms, move with a robotic precision. Jack’s face is etched with a mix of determination and unease, while Laura’s expression is a mix of irritation and defiance.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "Another fucking day.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "Management, this is ridiculous!",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Narrator",
+          "line": "Their assigned Sector 6 is a sterile expanse, where the only color comes from the wildflowers outside the tall glass windows. The air is thick with the scent of cleaning products and the hum of unseen machinery. The terminals are designed for maximum efficiency, but the physical demands are absurd, requiring Jack and Laura to contort their bodies in unnatural ways. As they work, they both seem to be grappling with the same thoughts, their expressions grim.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "Boys, I have it from a reliable source.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "Expand our border with the neighboring kingdom?",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "The people will rejoice as long as they have international service workers like me.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "I've had enough of this fucking charade.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "We demand justice and shield.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "Later. Ugh. You dare to question my role?",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 9,
+      "speakers": [
+        "Jack",
+        "Laura",
+        "Narrator"
+      ]
+    }
+  ],
+  "voices": {
+    "generated_at": "20260914_000359",
+    "source_draft_repo": "phukyoo64-boop/2nddraft20260914_000038",
+    "source_draft_json": "second_draft_20260914_000038.json",
+    "source_draft_sha": "cef86ffacb196da621cc97fb648587f63bf852ca",
+    "source_voice_repo": "phukyoo64-boop/28",
+    "source_zip": "characters.zip",
+    "char_map": {
+      "Laura": "Angel",
+      "Narrator": "Narrator",
+      "Jack": "Jack"
+    },
+    "lines": [
+      {
+        "draft": 1,
+        "n": 1,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Another fucking day.",
+        "file": "draft1_line001_Jack.mp3",
+        "bytes": 8616
+      },
+      {
+        "draft": 1,
+        "n": 2,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "Management, this is ridiculous!",
+        "file": "draft1_line002_Laura.mp3",
+        "bytes": 20400
+      },
+      {
+        "draft": 1,
+        "n": 3,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Their assigned Sector 6 is a sterile expanse, where the only color comes from the wildflowers outside the tall glass windows. The air is thick with the scent of cleaning products and the hum of unseen machinery. The terminals are designed for maximum efficiency, but the physical demands are absurd, requiring Jack and Laura to contort their bodies in unnatural ways. As they work, they both seem to be grappling with the same thoughts, their expressions grim.",
+        "file": "draft1_line003_Narrator.mp3",
+        "bytes": 166104
+      },
+      {
+        "draft": 1,
+        "n": 4,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Boys, I have it from a reliable source.",
+        "file": "draft1_line004_Jack.mp3",
+        "bytes": 17208
+      },
+      {
+        "draft": 1,
+        "n": 5,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "Expand our border with the neighboring kingdom?",
+        "file": "draft1_line005_Laura.mp3",
+        "bytes": 22056
+      },
+      {
+        "draft": 1,
+        "n": 6,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "The people will rejoice as long as they have international service workers like me.",
+        "file": "draft1_line006_Jack.mp3",
+        "bytes": 33336
+      },
+      {
+        "draft": 1,
+        "n": 7,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "I've had enough of this fucking charade.",
+        "file": "draft1_line007_Laura.mp3",
+        "bytes": 20808
+      },
+      {
+        "draft": 1,
+        "n": 8,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "We demand justice and shield.",
+        "file": "draft1_line008_Jack.mp3",
+        "bytes": 17928
+      },
+      {
+        "draft": 1,
+        "n": 9,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Later. Ugh. You dare to question my role?",
+        "file": "draft1_line009_Narrator.mp3",
+        "bytes": 27624
+      }
+    ]
+  }
+}
